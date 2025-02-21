@@ -1,2 +1,2 @@
-backend-node.\index.js
+backend-node index.js
 frontend-npm start
